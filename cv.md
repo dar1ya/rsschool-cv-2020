@@ -8,7 +8,6 @@
 </head>
 
 <body>
-  <article>
     <section>
       <header>
         <h1>Darya Pavlovska</h1>
